@@ -1,4 +1,4 @@
-baseurl = "https://bzhaoopenstack.github.io/"
+baseurl = "http://bzhaoopenstack.github.io"
 title = "Binario"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
